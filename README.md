@@ -1,5 +1,5 @@
-- I am interested in: CS, A.I., M.L., Mathematics and Science.
-- Learning CS in Department of Informatics and Telecommunications of NKUA, Greece.
+I am interested in: CS, A.I., M.L., Mathematics and Science. <br>
+- Learning CS in Department of Informatics and Telecommunications of NKUA, Greece. <br>
 - email->arkoulis.kostas02@gmail.com
 
 <!---
