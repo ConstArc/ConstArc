@@ -1,4 +1,4 @@
-I am interested in: CS, A.I. and Mathematics. <br>
+I am interested in: CS, AI and Mathematics. <br>
 Learning CS in Department of Informatics and Telecommunications of NKUA, Greece. <br>
 email->arkoulis.kostas02@gmail.com
 
